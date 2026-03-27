@@ -78,3 +78,8 @@ This project demonstrates:
 * Building **production-ready Streamlit apps**
 
 ---
+👨‍💻 Author
+
+Nithin Jacob
+
+AI & Machine Learning Enthusiast Passionate about building data-driven solutions for real-world problems.
